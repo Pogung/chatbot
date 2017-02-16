@@ -25,11 +25,13 @@ Chatbot
 │
 └───lib
 │   │   modul1.py
-│   │   modul2.py      
+│   │   modul2.py 
+|   __init__.py
 │   
 └───main
     │   main.py
     │   main.py
+    __init__.py
 ```
 
 
